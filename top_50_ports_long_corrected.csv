@@ -1,0 +1,286 @@
+Port Name,Country,Latitude,Longitude,Year,TEU
+Shanghai,China,31.2333,121.5,2019,43.3
+Shanghai,China,31.2333,121.5,2020,43.5
+Shanghai,China,31.2333,121.5,2021,47.03
+Shanghai,China,31.2333,121.5,2022,47.3
+Shanghai,China,31.2333,121.5,2023,49.16
+Singapore,Singapore,1.3333,103.7,2019,37.2
+Singapore,Singapore,1.3333,103.7,2020,36.9
+Singapore,Singapore,1.3333,103.7,2021,37.49
+Singapore,Singapore,1.3333,103.7,2022,37.29
+Singapore,Singapore,1.3333,103.7,2023,39.01
+Ningbo-Zhoushan,China,29.985295,122.207215,2019,27.49
+Ningbo-Zhoushan,China,29.985295,122.207215,2020,28.72
+Ningbo-Zhoushan,China,29.985295,122.207215,2021,31.07
+Ningbo-Zhoushan,China,29.985295,122.207215,2022,33.35
+Ningbo-Zhoushan,China,29.985295,122.207215,2023,35.3
+Shenzhen,China,22.55,114.1167,2019,25.77
+Shenzhen,China,22.55,114.1167,2020,26.55
+Shenzhen,China,22.55,114.1167,2021,28.77
+Shenzhen,China,22.55,114.1167,2022,30.04
+Shenzhen,China,22.55,114.1167,2023,29.88
+Guangzhou Harbor,China,23.1333,113.2333,2019,23.23
+Guangzhou Harbor,China,23.1333,113.2333,2020,23.51
+Guangzhou Harbor,China,23.1333,113.2333,2021,24.18
+Guangzhou Harbor,China,23.1333,113.2333,2022,24.86
+Guangzhou Harbor,China,23.1333,113.2333,2023,25.41
+Busan,South Korea,35.1333,129.05,2019,21.99
+Busan,South Korea,35.1333,129.05,2020,21.82
+Busan,South Korea,35.1333,129.05,2021,22.71
+Busan,South Korea,35.1333,129.05,2022,22.08
+Busan,South Korea,35.1333,129.05,2023,23.04
+Qingdao,China,36.05,120.3167,2019,21.01
+Qingdao,China,36.05,120.3167,2020,22.01
+Qingdao,China,36.05,120.3167,2021,23.71
+Qingdao,China,36.05,120.3167,2022,25.67
+Qingdao,China,36.05,120.3167,2023,28.77
+Hong Kong,"S.A.R, China",38.45,118.4333,2019,18.3
+Hong Kong,"S.A.R, China",38.45,118.4333,2020,17.95
+Hong Kong,"S.A.R, China",38.45,118.4333,2021,17.8
+Hong Kong,"S.A.R, China",38.45,118.4333,2022,16.69
+Hong Kong,"S.A.R, China",38.45,118.4333,2023,14.4
+Tianjin,China,39.0333,117.2,2019,17.3
+Tianjin,China,39.0333,117.2,2020,18.35
+Tianjin,China,39.0333,117.2,2021,20.27
+Tianjin,China,39.0333,117.2,2022,22.02
+Tianjin,China,39.0333,117.2,2023,22.19
+Rotterdam,The Netherlands,51.95,4.1333,2019,14.82
+Rotterdam,The Netherlands,51.95,4.1333,2020,14.35
+Rotterdam,The Netherlands,51.95,4.1333,2021,15.3
+Rotterdam,The Netherlands,51.95,4.1333,2022,14.46
+Rotterdam,The Netherlands,51.95,4.1333,2023,13.45
+Jebel Ali,"Dubai, United Arab Emirates",25.0,55.05,2019,14.11
+Jebel Ali,"Dubai, United Arab Emirates",25.0,55.05,2020,13.5
+Jebel Ali,"Dubai, United Arab Emirates",25.0,55.05,2021,13.74
+Jebel Ali,"Dubai, United Arab Emirates",25.0,55.05,2022,13.97
+Jebel Ali,"Dubai, United Arab Emirates",25.0,55.05,2023,14.47
+Port Klang,Malaysia,2.9833,101.3833,2019,13.58
+Port Klang,Malaysia,2.9833,101.3833,2020,13.24
+Port Klang,Malaysia,2.9833,101.3833,2021,13.72
+Port Klang,Malaysia,2.9833,101.3833,2022,13.22
+Port Klang,Malaysia,2.9833,101.3833,2023,14.06
+Xiamen,China,24.45,118.1,2019,11.12
+Xiamen,China,24.45,118.1,2020,11.41
+Xiamen,China,24.45,118.1,2021,12.05
+Xiamen,China,24.45,118.1,2022,12.43
+Xiamen,China,24.45,118.1,2023,12.55
+Antwerp,Belgium,51.2167,4.4167,2019,11.1
+Antwerp,Belgium,51.2167,4.4167,2020,12.03
+Antwerp,Belgium,51.2167,4.4167,2021,12.02
+Antwerp,Belgium,51.2167,4.4167,2022,13.5
+Antwerp,Belgium,51.2167,4.4167,2023,12.5
+Kaohsiung,"Taiwan, China",22.6272784,120.3014353,2019,10.42
+Kaohsiung,"Taiwan, China",22.6272784,120.3014353,2020,9.62
+Kaohsiung,"Taiwan, China",22.6272784,120.3014353,2021,9.86
+Kaohsiung,"Taiwan, China",22.6272784,120.3014353,2022,9.49
+Kaohsiung,"Taiwan, China",22.6272784,120.3014353,2023,8.83
+Dalian,China,38.9167,121.6,2019,10.21
+Dalian,China,38.9167,121.6,2020,5.11
+Dalian,China,38.9167,121.6,2021,3.67
+Dalian,China,38.9167,121.6,2022,4.46
+Dalian,China,38.9167,121.6,2023,5.03
+Los Angeles,U.S.A,33.7325,-118.2667,2019,9.3
+Los Angeles,U.S.A,33.7325,-118.2667,2020,9.21
+Los Angeles,U.S.A,33.7325,-118.2667,2021,10.68
+Los Angeles,U.S.A,33.7325,-118.2667,2022,9.91
+Los Angeles,U.S.A,33.7325,-118.2667,2023,8.63
+Hamburg,Germany,53.5167,9.9333,2019,9.3
+Hamburg,Germany,53.5167,9.9333,2020,8.54
+Hamburg,Germany,53.5167,9.9333,2021,8.72
+Hamburg,Germany,53.5167,9.9333,2022,8.26
+Hamburg,Germany,53.5167,9.9333,2023,7.7
+Tanjung Pelepas,Malaysia,3.35,99.4833,2019,9.1
+Tanjung Pelepas,Malaysia,3.35,99.4833,2020,9.8
+Tanjung Pelepas,Malaysia,3.35,99.4833,2021,11.2
+Tanjung Pelepas,Malaysia,3.35,99.4833,2022,10.51
+Tanjung Pelepas,Malaysia,3.35,99.4833,2023,10.48
+Laem Chabang,Thailand,13.0833,100.8833,2019,8.1
+Laem Chabang,Thailand,13.0833,100.8833,2020,7.55
+Laem Chabang,Thailand,13.0833,100.8833,2021,8.34
+Laem Chabang,Thailand,13.0833,100.8833,2022,8.74
+Laem Chabang,Thailand,13.0833,100.8833,2023,8.87
+Long Beach,U.S.A.,33.75,-118.2,2019,7.63
+Long Beach,U.S.A.,33.75,-118.2,2020,8.11
+Long Beach,U.S.A.,33.75,-118.2,2021,9.38
+Long Beach,U.S.A.,33.75,-118.2,2022,9.13
+Long Beach,U.S.A.,33.75,-118.2,2023,8.02
+Tanjung Priok,"Jakarta, Indonesia",3.35,99.4833,2019,7.6
+Tanjung Priok,"Jakarta, Indonesia",3.35,99.4833,2020,3.6
+Tanjung Priok,"Jakarta, Indonesia",3.35,99.4833,2021,3.9
+Tanjung Priok,"Jakarta, Indonesia",3.35,99.4833,2022,3.97
+Tanjung Priok,"Jakarta, Indonesia",3.35,99.4833,2023,4.1
+New York-New Jersey,U.S.A.,40.6667,-74.1667,2019,7.4
+New York-New Jersey,U.S.A.,40.6667,-74.1667,2020,7.59
+New York-New Jersey,U.S.A.,40.6667,-74.1667,2021,9.0
+New York-New Jersey,U.S.A.,40.6667,-74.1667,2022,9.49
+New York-New Jersey,U.S.A.,40.6667,-74.1667,2023,7.81
+Colombo,Sri Lanka,6.9167,79.85,2019,7.23
+Colombo,Sri Lanka,6.9167,79.85,2020,6.86
+Colombo,Sri Lanka,6.9167,79.85,2021,7.3
+Colombo,Sri Lanka,6.9167,79.85,2022,6.86
+Colombo,Sri Lanka,6.9167,79.85,2023,6.94
+Ho Chi Minh City,Vietnam,10.75,106.7,2019,7.22
+Ho Chi Minh City,Vietnam,10.75,106.7,2020,7.85
+Ho Chi Minh City,Vietnam,10.75,106.7,2021,8.0
+Ho Chi Minh City,Vietnam,10.75,106.7,2022,7.91
+Ho Chi Minh City,Vietnam,10.75,106.7,2023,7.4
+Suzhou,China,31.3167,120.6167,2019,
+Suzhou,China,31.3167,120.6167,2020,6.29
+Suzhou,China,31.3167,120.6167,2021,8.11
+Suzhou,China,31.3167,120.6167,2022,8.11
+Suzhou,China,31.3167,120.6167,2023,
+Piraeus,Greece,37.9333,23.6167,2019,5.67
+Piraeus,Greece,37.9333,23.6167,2020,5.44
+Piraeus,Greece,37.9333,23.6167,2021,5.31
+Piraeus,Greece,37.9333,23.6167,2022,5.0
+Piraeus,Greece,37.9333,23.6167,2023,5.1
+Yingkou,China,40.65,122.2167,2019,6.28
+Yingkou,China,40.65,122.2167,2020,6.5
+Yingkou,China,40.65,122.2167,2021,5.48
+Yingkou,China,40.65,122.2167,2022,5.67
+Yingkou,China,40.65,122.2167,2023,5.21
+Valencia,Spain,39.45,-0.3,2019,5.44
+Valencia,Spain,39.45,-0.3,2020,5.43
+Valencia,Spain,39.45,-0.3,2021,5.6
+Valencia,Spain,39.45,-0.3,2022,5.05
+Valencia,Spain,39.45,-0.3,2023,4.8
+Manila,Philippines,14.58333333,120.9666667,2019,5.31
+Manila,Philippines,14.58333333,120.9666667,2020,4.43
+Manila,Philippines,14.58333333,120.9666667,2021,4.98
+Manila,Philippines,14.58333333,120.9666667,2022,5.47
+Manila,Philippines,14.58333333,120.9666667,2023,5.21
+Taicang,China,31.45,121.1,2019,
+Taicang,China,31.45,121.1,2020,
+Taicang,China,31.45,121.1,2021,7.04
+Taicang,China,31.45,121.1,2022,
+Taicang,China,31.45,121.1,2023,8.04
+Hai Phong,Vietnam,25.7833,55.95,2019,5.13
+Hai Phong,Vietnam,25.7833,55.95,2020,5.14
+Hai Phong,Vietnam,25.7833,55.95,2021,5.7
+Hai Phong,Vietnam,25.7833,55.95,2022,5.63
+Hai Phong,Vietnam,25.7833,55.95,2023,5.57
+Algeciras,Spain,36.1333,-5.4333,2019,5.12
+Algeciras,Spain,36.1333,-5.4333,2020,5.12
+Algeciras,Spain,36.1333,-5.4333,2021,4.8
+Algeciras,Spain,36.1333,-5.4333,2022,4.77
+Algeciras,Spain,36.1333,-5.4333,2023,4.73
+Jawarharlal Nehru Port (Nhava Sheva),India,19.0330488,73.02966,2019,5.03
+Jawarharlal Nehru Port (Nhava Sheva),India,19.0330488,73.02966,2020,4.48
+Jawarharlal Nehru Port (Nhava Sheva),India,19.0330488,73.02966,2021,5.63
+Jawarharlal Nehru Port (Nhava Sheva),India,19.0330488,73.02966,2022,5.96
+Jawarharlal Nehru Port (Nhava Sheva),India,19.0330488,73.02966,2023,6.35
+Bremen/Bremerhaven,Germany,53.1833,8.5833,2019,4.87
+Bremen/Bremerhaven,Germany,53.1833,8.5833,2020,4.77
+Bremen/Bremerhaven,Germany,53.1833,8.5833,2021,5.02
+Bremen/Bremerhaven,Germany,53.1833,8.5833,2022,4.57
+Bremen/Bremerhaven,Germany,53.1833,8.5833,2023,4.18
+Tanger Med,Morocco,35.8846,-5.5028,2019,4.8
+Tanger Med,Morocco,35.8846,-5.5028,2020,5.77
+Tanger Med,Morocco,35.8846,-5.5028,2021,7.17
+Tanger Med,Morocco,35.8846,-5.5028,2022,7.6
+Tanger Med,Morocco,35.8846,-5.5028,2023,8.61
+Lianyungang,China,34.7167,119.4333,2019,
+Lianyungang,China,34.7167,119.4333,2020,4.8
+Lianyungang,China,34.7167,119.4333,2021,5.09
+Lianyungang,China,34.7167,119.4333,2022,5.57
+Lianyungang,China,34.7167,119.4333,2023,6.14
+Mundra,India,22.756025,69.636455,2019,4.73
+Mundra,India,22.756025,69.636455,2020,5.66
+Mundra,India,22.756025,69.636455,2021,6.66
+Mundra,India,22.756025,69.636455,2022,6.5
+Mundra,India,22.756025,69.636455,2023,7.4
+Savannah,U.S.A,35.2167,-88.2333,2019,4.59
+Savannah,U.S.A,35.2167,-88.2333,2020,4.68
+Savannah,U.S.A,35.2167,-88.2333,2021,5.61
+Savannah,U.S.A,35.2167,-88.2333,2022,5.89
+Savannah,U.S.A,35.2167,-88.2333,2023,4.93
+Tokyo,Japan,35.6333,139.7833,2019,4.51
+Tokyo,Japan,35.6333,139.7833,2020,4.26
+Tokyo,Japan,35.6333,139.7833,2021,4.33
+Tokyo,Japan,35.6333,139.7833,2022,4.43
+Tokyo,Japan,35.6333,139.7833,2023,4.57
+Rizhao,China,35.3833,119.5333,2019,4.5
+Rizhao,China,35.3833,119.5333,2020,4.86
+Rizhao,China,35.3833,119.5333,2021,5.17
+Rizhao,China,35.3833,119.5333,2022,5.8
+Rizhao,China,35.3833,119.5333,2023,6.26
+Foshan,China,23.03333,113.1,2019,
+Foshan,China,23.03333,113.1,2020,4.05
+Foshan,China,23.03333,113.1,2021,3.71
+Foshan,China,23.03333,113.1,2022,
+Foshan,China,23.03333,113.1,2023,
+Jeddah,Saudi Arabia,21.5333,39.1667,2019,4.43
+Jeddah,Saudi Arabia,21.5333,39.1667,2020,4.74
+Jeddah,Saudi Arabia,21.5333,39.1667,2021,4.88
+Jeddah,Saudi Arabia,21.5333,39.1667,2022,4.96
+Jeddah,Saudi Arabia,21.5333,39.1667,2023,5.59
+Colon,Panama,9.35,-79.8667,2019,
+Colon,Panama,9.35,-79.8667,2020,4.45
+Colon,Panama,9.35,-79.8667,2021,4.92
+Colon,Panama,9.35,-79.8667,2022,5.1
+Colon,Panama,9.35,-79.8667,2023,4.87
+Santos,Brazil,-23.9618,-46.3284,2019,4.17
+Santos,Brazil,-23.9618,-46.3284,2020,4.23
+Santos,Brazil,-23.9618,-46.3284,2021,4.83
+Santos,Brazil,-23.9618,-46.3284,2022,4.99
+Santos,Brazil,-23.9618,-46.3284,2023,4.78
+Salalah,Oman,17.0506675,54.1065864,2019,3.94
+Salalah,Oman,17.0506675,54.1065864,2020,4.34
+Salalah,Oman,17.0506675,54.1065864,2021,4.51
+Salalah,Oman,17.0506675,54.1065864,2022,4.5
+Salalah,Oman,17.0506675,54.1065864,2023,3.79
+Dongguan,China,23.0333,113.75,2019,
+Dongguan,China,23.0333,113.75,2020,3.42
+Dongguan,China,23.0333,113.75,2021,3.4
+Dongguan,China,23.0333,113.75,2022,3.41
+Dongguan,China,23.0333,113.75,2023,3.9
+Guangxi Beibu,China,21.93333,113.21667,2019,3.82
+Guangxi Beibu,China,21.93333,113.21667,2020,5.38
+Guangxi Beibu,China,21.93333,113.21667,2021,6.01
+Guangxi Beibu,China,21.93333,113.21667,2022,7.02
+Guangxi Beibu,China,21.93333,113.21667,2023,8.0
+Cai Mep,Vietnam,9.9833,106.5,2019,
+Cai Mep,Vietnam,9.9833,106.5,2020,4.41
+Cai Mep,Vietnam,9.9833,106.5,2021,5.39
+Cai Mep,Vietnam,9.9833,106.5,2022,5.59
+Cai Mep,Vietnam,9.9833,106.5,2023,5.48
+Yingkou,China,40.65,122.2167,2019,
+Yingkou,China,40.65,122.2167,2020,5.65
+Yingkou,China,40.65,122.2167,2021,5.21
+Yingkou,China,40.65,122.2167,2022,5.0
+Yingkou,China,40.65,122.2167,2023,5.33
+Port Said,Egypt,31.2653,32.3019,2019,
+Port Said,Egypt,31.2653,32.3019,2020,4.01
+Port Said,Egypt,31.2653,32.3019,2021,4.76
+Port Said,Egypt,31.2653,32.3019,2022,4.25
+Port Said,Egypt,31.2653,32.3019,2023,4.44
+NW Seaport Alliance,U.S.A.,47.2713,-122.4042,2019,
+NW Seaport Alliance,U.S.A.,47.2713,-122.4042,2020,3.32
+NW Seaport Alliance,U.S.A.,47.2713,-122.4042,2021,3.74
+NW Seaport Alliance,U.S.A.,47.2713,-122.4042,2022,3.38
+NW Seaport Alliance,U.S.A.,47.2713,-122.4042,2023,2.97
+Felixstowe,U.K.,51.95,1.35,2019,
+Felixstowe,U.K.,51.95,1.35,2020,3.5
+Felixstowe,U.K.,51.95,1.35,2021,3.7
+Felixstowe,U.K.,51.95,1.35,2022,3.7
+Felixstowe,U.K.,51.95,1.35,2023,3.71
+Marsaxlokk,Malta,35.8333,14.5333,2019,
+Marsaxlokk,Malta,35.8333,14.5333,2020,2.44
+Marsaxlokk,Malta,35.8333,14.5333,2021,2.97
+Marsaxlokk,Malta,35.8333,14.5333,2022,2.89
+Marsaxlokk,Malta,35.8333,14.5333,2023,2.8
+Fuzhou,China,26.0833,119.3,2019,
+Fuzhou,China,26.0833,119.3,2020,3.52
+Fuzhou,China,26.0833,119.3,2021,3.29
+Fuzhou,China,26.0833,119.3,2022,3.29
+Fuzhou,China,26.0833,119.3,2023,3.5
+Barcelona,Spain,41.33333333,2.166666667,2019,
+Barcelona,Spain,41.33333333,2.166666667,2020,2.96
+Barcelona,Spain,41.33333333,2.166666667,2021,3.53
+Barcelona,Spain,41.33333333,2.166666667,2022,3.52
+Barcelona,Spain,41.33333333,2.166666667,2023,3.28
+Vancouver,Canada,49.3333,-123.15,2019,
+Vancouver,Canada,49.3333,-123.15,2020,3.47
+Vancouver,Canada,49.3333,-123.15,2021,3.68
+Vancouver,Canada,49.3333,-123.15,2022,3.56
+Vancouver,Canada,49.3333,-123.15,2023,3.13

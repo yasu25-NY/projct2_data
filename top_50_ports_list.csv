@@ -1,0 +1,58 @@
+﻿Port,Port Name,Country,Volume 2023,Volume 2022,Volume 2021,Volume 2020,Volume 2019,latitude,longitude
+"Shanghai, China",Shanghai,China,49.16,47.3,47.03,43.5,43.3,31.2333,121.5
+Singapore,Singapore,Singapore,39.01,37.29,37.49,36.9,37.2,1.3333,103.7
+"Ningbo-Zhoushan, China",Ningbo-Zhoushan,China,35.3,33.35,31.07,28.72,27.49,29.985295,122.207215
+"Shenzhen, China",Shenzhen,China,29.88,30.04,28.77,26.55,25.77,22.55,114.1167
+"Guangzhou Harbor, China",Guangzhou Harbor,China,25.41,24.86,24.18,23.51,23.23,23.1333,113.2333
+"Busan, South Korea",Busan,South Korea,23.04,22.08,22.71,21.82,21.99,35.1333,129.05
+"Qingdao, China",Qingdao,China,28.77,25.67,23.71,22.01,21.01,36.05,120.3167
+"Hong Kong, S.A.R, China",Hong Kong,"S.A.R, China",14.4,16.69,17.8,17.95,18.3,38.45,118.4333
+"Tianjin, China",Tianjin,China,22.19,22.02,20.27,18.35,17.3,39.0333,117.2
+"Rotterdam, The Netherlands",Rotterdam,The Netherlands,13.45,14.46,15.3,14.35,14.82,42.7833,-73.9667
+"Jebel Ali, Dubai, United Arab Emirates",Jebel Ali,"Dubai, United Arab Emirates",14.47,13.97,13.74,13.5,14.11,25.0,55.05
+"Port Klang, Malaysia",Port Klang,Malaysia,14.06,13.22,13.72,13.24,13.58,25.5333,55.55
+"Xiamen, China",Xiamen,China,12.55,12.43,12.05,11.41,11.12,24.45,118.1
+"Antwerp, Belgium",Antwerp,Belgium,12.5,13.5,12.02,12.03,11.1,51.2167,4.4167
+"Kaohsiung, Taiwan, China",Kaohsiung,"Taiwan, China",8.83,9.49,9.86,9.62,10.42,22.6272784,120.3014353
+"Dalian, China",Dalian,China,5.03,4.46,3.67,5.11,10.21,38.9167,121.6
+"Los Angeles, U.S.A",Los Angeles,U.S.A,8.63,9.91,10.68,9.21,9.3,34.1167,35.65
+"Hamburg, Germany",Hamburg,Germany,7.7,8.26,8.72,8.54,9.3,53.5167,9.9333
+"Tanjung Pelepas, Malaysia",Tanjung Pelepas,Malaysia,10.48,10.51,11.2,9.8,9.1,3.35,99.4833
+"Laem Chabang, Thailand",Laem Chabang,Thailand,8.87,8.74,8.34,7.55,8.1,13.0833,100.8833
+"Long Beach, U.S.A.",Long Beach,U.S.A.,8.02,9.13,9.38,8.11,7.63,40.7667,115.5667
+"Tanjung Priok, Jakarta, Indonesia",Tanjung Priok,"Jakarta, Indonesia",4.1,3.97,3.9,3.6,7.6,3.35,99.4833
+"New York-New Jersey, U.S.A.",New York-New Jersey,U.S.A.,7.81,9.49,9.0,7.59,7.4,20.25,108.8333
+"Colombo, Sri Lanka",Colombo,Sri Lanka,6.94,6.86,7.3,6.86,7.23,6.9167,79.85
+"Ho Chi Minh City, Vietnam",Ho Chi Minh City,Vietnam,7.4,7.91,8.0,7.85,7.22,25.3333,56.35
+"Suzhou, China",Suzhou,China,,8.11,8.11,6.29,,31.3167,120.6167
+"Piraeus, Greece",Piraeus,Greece,5.1,5.0,5.31,5.44,5.67,37.9333,23.6167
+"Yingkou, China",Yingkou,China,5.21,5.67,5.48,6.5,6.28,40.65,122.2167
+"Valencia, Spain",Valencia,Spain,4.8,5.05,5.6,5.43,5.44,39.45,-0.3
+"Manila, Philippines",Manila,Philippines,5.21,5.47,4.98,4.43,5.31,14.58333333,120.9666667
+"Taicang, China",Taicang,China,8.04,,7.04,,,31.45,121.1
+"Hai Phong, Vietnam",Hai Phong,Vietnam,5.57,5.63,5.7,5.14,5.13,25.7833,55.95
+"Algeciras, Spain",Algeciras,Spain,4.73,4.77,4.8,5.12,5.12,36.1333,-5.4333
+"Jawarharlal Nehru Port (Nhava Sheva), India",Jawarharlal Nehru Port (Nhava Sheva),India,6.35,5.96,5.63,4.48,5.03,19.0330488,73.02966
+"Bremen/Bremerhaven,Germany",Bremen/Bremerhaven,Germany,4.18,4.57,5.02,4.77,4.87,53.1833,8.5833
+"Tanger Med, Morocco",Tanger Med,Morocco,8.61,7.6,7.17,5.77,4.8,52.55,11.95
+"Lianyungang, China",Lianyungang,China,6.14,5.57,5.09,4.8,,34.7167,119.4333
+"Mundra, India",Mundra,India,7.4,6.5,6.66,5.66,4.73,22.756025,69.636455
+"Savannah, U.S.A",Savannah,U.S.A,4.93,5.89,5.61,4.68,4.59,35.2167,-88.2333
+"Tokyo, Japan",Tokyo,Japan,4.57,4.43,4.33,4.26,4.51,35.6333,139.7833
+"Rizhao, China",Rizhao,China,6.26,5.8,5.17,4.86,4.5,35.3833,119.5333
+"Foshan, China",Foshan,China,,,3.71,4.05,,23.03333,113.1
+"Jeddah, Saudi Arabia",Jeddah,Saudi Arabia,5.59,4.96,4.88,4.74,4.43,21.5333,39.1667
+"Colon, Panama",Colon,Panama,4.87,5.1,4.92,4.45,,9.35,-79.8667
+"Santos, Brazil",Santos,Brazil,4.78,4.99,4.83,4.23,4.17,6.1167,125.15
+"Salalah, Oman",Salalah,Oman,3.79,4.5,4.51,4.34,3.94,17.0506675,54.1065864
+"Dongguan, China",Dongguan,China,3.9,3.41,3.4,3.42,,23.0333,113.75
+"Guangxi Beibu, China",Guangxi Beibu,China,8.0,7.02,6.01,5.38,3.82,21.93333,113.21667
+"Cai Mep, Vietnam",Cai Mep,Vietnam,5.48,5.59,5.39,4.41,,9.9833,106.5
+"Yingkou, China",Yingkou,China,5.33,5.0,5.21,5.65,,40.65,122.2167
+"Port Said, Egypt",Port Said,Egypt,4.44,4.25,4.76,4.01,,25.5333,55.55
+"NW Seaport Alliance, U.S.A.",NW Seaport Alliance,U.S.A.,2.97,3.38,3.74,3.32,,36.05,120.2167
+"Felixstowe, U.K.",Felixstowe,U.K.,3.71,3.7,3.7,3.5,,51.95,1.35
+"Marsaxlokk, Malta",Marsaxlokk,Malta,2.8,2.89,2.97,2.44,,35.8333,14.5333
+"Fuzhou, China",Fuzhou,China,3.5,3.29,3.29,3.52,,26.0833,119.3
+"Barcelona, Spain",Barcelona,Spain,3.28,3.52,3.53,2.96,,41.33333333,2.166666667
+"Vancouver, Canada",Vancouver,Canada,3.13,3.56,3.68,3.47,,49.3333,-123.15
